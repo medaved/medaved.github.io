@@ -1,37 +1,42 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Обо мне
+tags: [about, ROR, medaved, DmitryEvgenevich]
+date: 2017-05-15
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><b>Привет!</b></center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Обо мне
 
-## Preview
+Меня зовут Дмитрий, проживаю в г.Санкт-Петербург. 
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## Профессиональные навыки
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+* Ruby(2.x)
+* Ruby on Rails(4,5)
+* HTML5(HAML)
+* CSS(SCSS)
+* JavaScript(JQuery)
+* Bootstrap
+* PostgresSQL
+* Linux
+* Git
 
-## Getting Started
+## Опыт
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+2016 - п.н.в.: Freelance
+
+## Образование и курсы
+
+Курсы:
+
+[CodeAcademy](https://www.codecademy.com/Dmitry_Evgenevich) - 9 Skill completed 135 Badges 955pts
+
+[CodeSchool](https://www.codeschool.com/users/MeDaveD) - 3 Courses Completed 19 Levels Completed 28,300 Total Points 
+
+Высшее:
+2013 - Тольяттинский государственный университет, г.Тольятти
+       Институт машиностроения, Технология машиностроения
+ 
