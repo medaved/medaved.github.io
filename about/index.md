@@ -19,7 +19,7 @@ comments: false
 * HTML5(HAML)
 * CSS(SCSS)
 * JavaScript(JQuery)
-* Bootstrap
+* Bootstrap(front-end framework)
 * PostgresSQL
 * Linux
 * Git
